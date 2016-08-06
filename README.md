@@ -12,4 +12,4 @@ pc上已安装nginx和apache web server，nginx端口为8881，apache端口为88
 
 **请先完成难度较低的website-testing中的要求**
 
-**如果会angularjs和bootstrap的同学，可以跳过website-testing，直接开始webapp-testing**
+**如果会angularjs和bootstrap，可以跳过website-testing，直接开始webapp-testing**
