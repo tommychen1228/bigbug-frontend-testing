@@ -13,3 +13,9 @@ pc上已安装nginx和apache web server，nginx端口为8881，apache端口为88
 **请先完成难度较低的website-testing中的要求**
 
 **如果会angularjs和bootstrap，可以跳过website-testing，直接开始webapp-testing**
+
+## 视频说明
+<video id="video" controls preload="none" poster="http://www.bigbug.tech/images/background/bg-side-1.jpg">
+      <source id="mp4" src="http://7xw7ee.com1.z0.glb.clouddn.com/testing-intro.mp4" type="video/mp4">
+      <p>Your user agent does not support the HTML5 Video element.</p>
+</video>
